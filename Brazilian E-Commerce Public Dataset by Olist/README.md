@@ -3,13 +3,13 @@
 ## Sobre o Projeto
 Este projeto tem dois objetivos. O primeiro é analisar o desempenho de vendas, logística e satisfação do cliente de uma grande varejista brasileira. O segundo é analisar comentários dos clientes para entender o sentimento do cliente.
 Foi utilizado SQL para extrair insights acionáveis.
-Foi utilizado Natural Language Processing (NLP) e Machine Learning (ML), a fim de criar um modelo de cassificação de sentimento que categorize comentários como positivo, neutro e negativo. Isto ajuda o negócio a ganhar insights e melhorar os produtos e serviços baseados em feedback real.
+E foi utilizado Natural Language Processing (NLP) e Machine Learning (ML), a fim de criar um modelo de cassificação de sentimento que categorize comentários como positivo, neutro e negativo. Isto ajuda o negócio a ganhar insights e melhorar os produtos e serviços baseados em feedback real.
 
 ## Tecnologia Usada
 - **Banco de Dados:** PostgreSQL
 - **Ferramenta:** DBeaver
 - **Dados:** Olist E-Commerce Public Dataset (Kaggle)
-- **Python:**: Bibliotecas: pandas, numpy,matplotlib,seaborn, wordcloud, xgboost)
+- **Python:** Bibliotecas: pandas, numpy, matplotlib ,seaborn, wordcloud, xgboost)
 
 ## Instalações Necessárias no Python
 - `pip install wordcloud`
@@ -35,13 +35,7 @@ Foi utilizado Natural Language Processing (NLP) e Machine Learning (ML), a fim d
 - `/dados`: Contém as tabelas em Excel com dados exportados do Kaggle.
 - `/eda`: Análise Exploratória de Dados.
 
-Ferramentas:
-Python
-(Bibliotecas: pandas, numpy,matplotlib,seaborn, wordcloud, xgboost)
-pip install wordcloud
-pip install xgboost
-
-Passos feitos:
-1. Limpeza e preparação de dados do E-commerce
-2. Tecnicas de visualização (sentiment analysis)
-3. Configurando o dado para NLP e Machine Learning
+## Passos feitos:
+1. **Limpeza e preparação de dados do E-commerce**
+2. **Tecnicas de visualização (sentiment analysis)**
+3. **Configurando o dado para NLP e Machine Learning**
